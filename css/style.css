@@ -1,0 +1,13 @@
+
+
+@import url("footer.css");
+*{
+ 	font-family: 'Roboto', sans-serif;
+ }
+ card-img-overlay{
+ 	display: flex;
+ 	flex-direction: column;
+ 	justify-content: center;
+ 	align-items: center;
+ }
+ 
